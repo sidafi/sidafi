@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm an Industrial Informatics student at Politeknik Manufaktur Bandung, Indonesia (Class of 2024).<br>⚙️ I love building tech that bridges hardware and software to improve industrial efficiency.<br>🤖 Currently focused on Edge AI. Machine Learning, IoT Automation, and Computer Vision.<br>🏆 Creator of MANDOR (Predictive Maintenance System) & others.<br>🌍 Broadening my horizons after an amazing study exchange in Wuhan, China.<br>🌱 Currently deep-diving into YOLOv8, and Digital Twins.<br>⚡ Fun fact: I enjoy configuring hardware just as much as designing a clean UI!
+👋 Hi! I'm an Industrial Informatics student at Politeknik Manufaktur Bandung, Indonesia (Class of 2024).<br>⚙️ I love building tech that bridges hardware and software to improve industrial efficiency.<br>🤖 Currently focused on Edge AI. Machine Learning, IoT Automation, and Computer Vision.<br>🏆 Creator of MANDOR (Predictive Maintenance System) & others.<br>🌍 Broadening my horizons after an amazing study exchange in Wuhan, China.<br>🌱 Currently deep-diving into ML, and Digital Twins.<br>⚡ Fun fact: I enjoy configuring hardware just as much as designing a clean UI!
 
 
 ## 🌐 Socials:
